@@ -1,0 +1,46 @@
+/* Gobal style*/
+
+*{
+    padding: 0;
+    margin: auto;
+    background-size: cover;
+}
+.main{
+    margin: 100px auto;
+}
+.hea{color:#800080;}
+.rate2{
+    position: absolute;
+    left:20px
+}
+.yellow{color:#FFA500}
+.rate3{
+    position: absolute;
+    left:40px
+}
+.rateTxt{font-size: 18px;}
+.card{
+    padding:20px;
+    border-radius: 20px !important;
+}
+.cardC{
+    background-color: #800080 !important;
+    color:#fff;
+}
+.image{
+    width: 20%;
+    height: 20%;
+    float: left;
+    border-radius: 50%;
+}
+.up-head{
+    float: right;
+}
+.card2{
+    position: absolute;
+    top:20px
+}
+.card3{
+    position: absolute;
+    top:40px
+}
